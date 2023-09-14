@@ -1,0 +1,41 @@
+body{
+    color:red;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ul{
+    display: flex;
+    justify-content: space-around;
+list-style-type: none;  
+padding: 16px;
+}
+
+img{
+    text-align: right;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%
+    ;
+    border: 5px solid red
+}
+
+.pika{
+    text-align: center;
+}
+
+h1{
+    color:green;
+}
+h2{
+    color: coral;
+}
+main{
+    color: white;
+}
+
+main2{
+    color:pink;
+    font-size: 65;
+}
